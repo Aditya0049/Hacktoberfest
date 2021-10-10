@@ -1,4 +1,7 @@
 # List of all contributors
+## 2021
+
+1. [Aditya Kate](https://github.com/Aditya0049)
 
 ## 2019
 
